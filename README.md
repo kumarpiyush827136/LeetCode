@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/kumarpiyush827136/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kumarpiyush827136/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarpiyush827136/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/kumarpiyush827136/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kumarpiyush827136/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
