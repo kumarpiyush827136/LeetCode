@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kumarpiyush827136/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kumarpiyush827136/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kumarpiyush827136/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kumarpiyush827136/LeetCode/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kumarpiyush827136/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kumarpiyush827136/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
