@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarpiyush827136/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/kumarpiyush827136/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kumarpiyush827136/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kumarpiyush827136/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kumarpiyush827136/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
