@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/kumarpiyush827136/LeetCode/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/kumarpiyush827136/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarpiyush827136/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/kumarpiyush827136/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarpiyush827136/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kumarpiyush827136/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/kumarpiyush827136/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kumarpiyush827136/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/kumarpiyush827136/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
