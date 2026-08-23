@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/kumarpiyush827136/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumarpiyush827136/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kumarpiyush827136/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/kumarpiyush827136/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
