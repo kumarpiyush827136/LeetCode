@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/kumarpiyush827136/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/kumarpiyush827136/LeetCode/tree/master/2938-separate-black-and-white-balls) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kumarpiyush827136/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kumarpiyush827136/LeetCode/tree/master/0709-to-lower-case) |
+| [1768-merge-strings-alternately](https://github.com/kumarpiyush827136/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2938-separate-black-and-white-balls](https://github.com/kumarpiyush827136/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
