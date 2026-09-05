@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/kumarpiyush827136/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kumarpiyush827136/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/kumarpiyush827136/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarpiyush827136/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kumarpiyush827136/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/kumarpiyush827136/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kumarpiyush827136/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/kumarpiyush827136/LeetCode/tree/master/2938-separate-black-and-white-balls) |
+| [3280-convert-date-to-binary](https://github.com/kumarpiyush827136/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Depth-First Search
 |  |
 | ------- |
