@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpiyush827136/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kumarpiyush827136/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kumarpiyush827136/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kumarpiyush827136/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/kumarpiyush827136/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/kumarpiyush827136/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kumarpiyush827136/LeetCode/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/kumarpiyush827136/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/kumarpiyush827136/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kumarpiyush827136/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/kumarpiyush827136/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
