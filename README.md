@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kumarpiyush827136/LeetCode/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kumarpiyush827136/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kumarpiyush827136/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kumarpiyush827136/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kumarpiyush827136/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarpiyush827136/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kumarpiyush827136/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarpiyush827136/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kumarpiyush827136/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
