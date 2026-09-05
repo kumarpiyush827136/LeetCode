@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kumarpiyush827136/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kumarpiyush827136/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/kumarpiyush827136/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kumarpiyush827136/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumarpiyush827136/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3925-concatenate-array-with-reverse](https://github.com/kumarpiyush827136/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
